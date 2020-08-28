@@ -28,16 +28,7 @@ h1{
 }
 
 
-nav li{
-    display: inline-block;
-    width: 80px;
-    padding: 10px 0;
-    font-family: "Square Slabserif 711", cursive;
-}
 
-h1, h2, h3{
-    font-family: "Square Slabserif 711", cursive;
-}
 .center{
     
     margin-left: auto;
@@ -59,6 +50,3 @@ th.table-top{
     border: black solid;
 }
 
-#amrap{
-    border: white;
-}
