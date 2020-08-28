@@ -6,6 +6,19 @@ h1, h2, h3, p, li{
     text-align: center;
 }
 
+#intro{
+  /* The image used */
+  background-image: url(./Images/Copy\ of\ _Z9A1120.jpg);
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 #logo{
     display: block;
 }
